@@ -1,1 +1,1 @@
-# Files for Faculty Development Program on Machine Learning and Image Processing
+# Files for FDP on Machine Learning and Image Processing
